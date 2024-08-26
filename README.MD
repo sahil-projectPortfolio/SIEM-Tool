@@ -16,3 +16,5 @@ This project is a Security Information and Event Management (SIEM) tool designed
 
 ### Key Skills Gained
 - Log Management, Network Security, Incident Detection and Response, Infrastructure monitoring
+
+**Project Showcase**: https://www.linkedin.com/posts/rsahil7_cybersecurity-siem-elkstack-activity-7233766259081814017-1cbX?utm_source=share&utm_medium=member_desktop
